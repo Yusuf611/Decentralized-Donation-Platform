@@ -28,7 +28,6 @@ Prerequisites
 Running the App
 
 To start the development server, run:
-```sh
 npm start
 # or
 yarn start
