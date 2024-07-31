@@ -1,31 +1,31 @@
 # Decentralized-Donation-Platform
 a simple decentralized donation platform where users can donate to causes or projects, with all donations recorded on the blockchain.
 
-#React App
+# React App
 
 This is a sample React application created using Create React App.
 
-#Introduction
+# Introduction
 
 This project is a simple web page created using Create React App and Bootstrap. It includes a basic navigation bar, a welcome message, and a footer.
 
-#Features
+# Features
 
 - Responsive navigation bar
 - Basic welcome page
 - Footer with copyright information
 - Integration with Bootstrap for styling
 
-#Getting Started
+# Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-#Prerequisites
+# Prerequisites
 
 - Node.js (v12 or later)
 - npm (v6 or later) or yarn (v1.22 or later)
 
-#Running the App
+# Running the App
 
 To start the development server, run:
 npm start
