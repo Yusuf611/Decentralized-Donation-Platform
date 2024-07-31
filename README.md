@@ -40,6 +40,7 @@ To create a production build, run:
 npm run build
 or
 yarn build
+
 This will create an optimized build of the app in the build directory.
 
 Technologies Used
